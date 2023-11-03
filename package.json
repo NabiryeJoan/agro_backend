@@ -2,6 +2,7 @@
   "name": "agro_backend",
   "version": "1.0.0",
   "description": "api and database",
+  "type":"module",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
